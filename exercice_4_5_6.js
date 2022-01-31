@@ -7,3 +7,4 @@ if (ttc > 100){
 }else{
     document.body.innerHTML = '<h1 style="color:green;">' + ttc + '</h1>'
 }
+
