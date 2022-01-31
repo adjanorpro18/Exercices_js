@@ -1,4 +1,5 @@
+let a = 42;
+let b = 35;
+let result = a + b;
 
-let chaine = prompt("Merci d'inscrire une chaine de caractères dans la page !");
-document.body.innerHTML = chaine;
-
+alert(result)
